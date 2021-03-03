@@ -21,3 +21,25 @@ outputdir	=	Percorso della cartella di destinazione del file cifrato/decifrato c
 file1...filen	=	Percorsi dei file da codificare/decodificare.
 
 -h,	--help	=	Stampa delle informazioni.
+
+# Come costruire una chiave
+
+La chiave dovrà essere contenuta in un unico file e dovrà contenere:
+
+- ALFABETO (Sequenza di 25 lettere) 
+
+- CARATTERE DA SOSTITUIRE
+
+- CARATTERE SPECIALE
+
+- CHIAVE
+
+Un esempio di chiave può essere:
+
+abcdefghiklmnopqrstuvwxyz
+
+  j
+
+  x
+
+  esempio playfair
