@@ -1,1 +1,2 @@
 # playfair
+playfair è un programma di criptaggio di messaggi basato su alfabeto, chiave, carattere speciale e carattere sostitutivo. L'algoritmo è possibile trovarlo [qui](https://en.wikipedia.org/wiki/Playfair_cipher). Il programma è stato sviluppato in C per l'esame di [Laboratorio di sistemi operativi](http://didattica.cs.unicam.it/doku.php?id=didattica:triennale:so:ay_2021:lab) presso l'università du [Unicam](https://www.unicam.it/).
